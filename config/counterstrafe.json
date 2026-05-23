@@ -1,0 +1,51 @@
+{
+  "gameStateListenerPrefix": "http://127.0.0.1:3001/",
+  "strengthStepMilliseconds": 5,
+  "minimumStrengthMilliseconds": 20,
+  "maximumStrengthMilliseconds": 120,
+  "defaultStrengthMilliseconds": 60,
+  "spaceReleaseSuspendMilliseconds": 40,
+  "mouseWheelJumpSuspendMilliseconds": 220,
+  "manualOverrideSuppressMilliseconds": 80,
+  "hotkeys": {
+    "decreaseStrength": "F6",
+    "increaseStrength": "F7",
+    "toggleEnabled": "F8",
+    "testTapA": "F9",
+    "exit": "F10"
+  },
+  "weaponSuppress": {
+    "types": [
+      "knife",
+      "grenade",
+      "c4"
+    ],
+    "names": [
+      "weapon_knife",
+      "weapon_knife_t",
+      "weapon_bayonet",
+      "weapon_knife_css",
+      "weapon_knife_flip",
+      "weapon_knife_gut",
+      "weapon_knife_karambit",
+      "weapon_knife_m9_bayonet",
+      "weapon_knife_tactical",
+      "weapon_knife_falchion",
+      "weapon_knife_survival_bowie",
+      "weapon_knife_butterfly",
+      "weapon_knife_push",
+      "weapon_knife_cord",
+      "weapon_knife_canis",
+      "weapon_knife_ursus",
+      "weapon_knife_gypsy_jackknife",
+      "weapon_knife_outdoor",
+      "weapon_knife_stiletto",
+      "weapon_knife_widowmaker",
+      "weapon_knifegg",
+      "weapon_fists",
+      "weapon_breachcharge",
+      "weapon_bumpmine",
+      "weapon_tablet"
+    ]
+  }
+}
